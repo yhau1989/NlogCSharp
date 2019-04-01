@@ -4,5 +4,7 @@ Using [Nlog](https://nlog-project.org/) Library in to C#
 
 ## Tools
 
-- Markdown: publish the Markdown text on a website that can interpret it (**GitHub** for instance),
-- HTML: publish the file converted to HTML via a Handlebars template (on a blog for example).
+- Visual Studio: Visual Studio 2015 or later https://visualstudio.microsoft.com/es/downloads/
+- .NET: .Net Framework 4.6.1 or later
+- SQL Server Express: SQL Server Express 2012 editions or later
+- Nlog nuget package:  

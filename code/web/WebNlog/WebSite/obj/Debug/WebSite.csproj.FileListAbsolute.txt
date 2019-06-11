@@ -1,3 +1,4 @@
+C:\Users\spilay\GitHub\Source\NlogCSharp\code\web\WebNlog\WebSite\obj\Debug\WebSite.csprojResolveAssemblyReference.cache
 C:\Users\spilay\GitHub\Source\NlogCSharp\code\web\WebNlog\WebSite\bin\roslyn\csc.exe
 C:\Users\spilay\GitHub\Source\NlogCSharp\code\web\WebNlog\WebSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
 C:\Users\spilay\GitHub\Source\NlogCSharp\code\web\WebNlog\WebSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
@@ -26,16 +27,14 @@ C:\Users\spilay\GitHub\Source\NlogCSharp\code\web\WebNlog\WebSite\bin\Microsoft.
 C:\Users\spilay\GitHub\Source\NlogCSharp\code\web\WebNlog\WebSite\bin\Newtonsoft.Json.dll
 C:\Users\spilay\GitHub\Source\NlogCSharp\code\web\WebNlog\WebSite\bin\NLog.dll
 C:\Users\spilay\GitHub\Source\NlogCSharp\code\web\WebNlog\WebSite\bin\System.Web.Optimization.dll
+C:\Users\spilay\GitHub\Source\NlogCSharp\code\web\WebNlog\WebSite\bin\Tools.dll
 C:\Users\spilay\GitHub\Source\NlogCSharp\code\web\WebNlog\WebSite\bin\WebGrease.dll
+C:\Users\spilay\GitHub\Source\NlogCSharp\code\web\WebNlog\WebSite\bin\Tools.pdb
 C:\Users\spilay\GitHub\Source\NlogCSharp\code\web\WebNlog\WebSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\spilay\GitHub\Source\NlogCSharp\code\web\WebNlog\WebSite\bin\Newtonsoft.Json.pdb
 C:\Users\spilay\GitHub\Source\NlogCSharp\code\web\WebNlog\WebSite\bin\Newtonsoft.Json.xml
 C:\Users\spilay\GitHub\Source\NlogCSharp\code\web\WebNlog\WebSite\bin\NLog.xml
 C:\Users\spilay\GitHub\Source\NlogCSharp\code\web\WebNlog\WebSite\bin\System.Web.Optimization.xml
 C:\Users\spilay\GitHub\Source\NlogCSharp\code\web\WebNlog\WebSite\bin\Antlr3.Runtime.pdb
 C:\Users\spilay\GitHub\Source\NlogCSharp\code\web\WebNlog\WebSite\bin\Microsoft.AspNet.FriendlyUrls.xml
-C:\Users\spilay\GitHub\Source\NlogCSharp\code\web\WebNlog\WebSite\obj\Debug\WebSite.csprojResolveAssemblyReference.cache
 C:\Users\spilay\GitHub\Source\NlogCSharp\code\web\WebNlog\WebSite\obj\Debug\WebSite.dll
 C:\Users\spilay\GitHub\Source\NlogCSharp\code\web\WebNlog\WebSite\obj\Debug\WebSite.pdb
-C:\Users\spilay\GitHub\Source\NlogCSharp\code\web\WebNlog\WebSite\bin\Tools.dll
-C:\Users\spilay\GitHub\Source\NlogCSharp\code\web\WebNlog\WebSite\bin\Tools.pdb

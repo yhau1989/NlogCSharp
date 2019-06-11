@@ -3,6 +3,6 @@ C:\Users\spilay\GitHub\Source\NlogCSharp\code\web\WebNlog\Tools\bin\Debug\Tools.
 C:\Users\spilay\GitHub\Source\NlogCSharp\code\web\WebNlog\Tools\bin\Debug\Tools.pdb
 C:\Users\spilay\GitHub\Source\NlogCSharp\code\web\WebNlog\Tools\bin\Debug\NLog.dll
 C:\Users\spilay\GitHub\Source\NlogCSharp\code\web\WebNlog\Tools\bin\Debug\NLog.xml
-C:\Users\spilay\GitHub\Source\NlogCSharp\code\web\WebNlog\Tools\obj\Debug\Tools.csprojResolveAssemblyReference.cache
 C:\Users\spilay\GitHub\Source\NlogCSharp\code\web\WebNlog\Tools\obj\Debug\Tools.dll
 C:\Users\spilay\GitHub\Source\NlogCSharp\code\web\WebNlog\Tools\obj\Debug\Tools.pdb
+C:\Users\spilay\GitHub\Source\NlogCSharp\code\web\WebNlog\Tools\obj\Debug\Tools.csprojResolveAssemblyReference.cache
